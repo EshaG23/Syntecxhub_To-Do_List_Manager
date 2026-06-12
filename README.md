@@ -1,4 +1,9 @@
 To-Do List Manager (Python CLI)
+
+LINKEDIN POST LINK
+https://www.linkedin.com/posts/esha-ghosh_github-eshag23syntecxhubto-dolistmanager-activity-7471088305435201537-Bn6G?utm_source=share&utm_medium=member_ios&rcm=ACoAAFFbqJMB3C11ce_6iHE3z-F1nQd6d4mvOkg
+
+
 Project Overview
 
 The To-Do List Manager is a command-line application developed in Python that helps users manage their daily tasks efficiently. Users can add, view, delete, mark tasks as completed, and search tasks by tags. The application stores task data in a JSON file, ensuring that tasks remain saved even after the program is closed and reopened.
